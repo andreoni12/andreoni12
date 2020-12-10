@@ -1,4 +1,8 @@
 ### Hi there 👋
+### My name is Matheus Andreoni. I'm a software engineer from Brazil, currently working on Hivecloud and a front-end enthusiast.
+### I'm currently on a learning journey at ReactJS.
+### How to find me: https://www.linkedin.com/in/matheus-andreoni-a6a163187/
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreoni12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andreoni12/andreoni12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
