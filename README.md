@@ -3,9 +3,6 @@
 ### About Me 👨‍💻
 My name is Matheus Andreoni. I'm a software engineer from Brazil, currently working on Hivecloud and a front-end enthusiast.
 
-### What am I learning now? 📜
-Currently on a learning journey at ReactJS.
-
 ### Contact Me 💌
 <a href="mailto:matheusandreoni97@gmail.com">Email</a><br/>
 [Linked In](https://www.linkedin.com/in/matheus-andreoni-a6a163187/)<br/>
