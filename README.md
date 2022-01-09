@@ -1,7 +1,7 @@
 ## Hi there! I'm Matheus Andreoni 👋
 
 ### About Me 👨‍💻
-My name is Matheus Andreoni. I'm a software engineer from Brazil, currently working on Hivecloud and a front-end enthusiast.
+My name is Matheus Andreoni. I'm a software engineer from Brazil, currently working on Vizir and a front-end enthusiast.
 
 ### Contact Me 💌
 <a href="mailto:matheusandreoni97@gmail.com">Email</a><br/>
